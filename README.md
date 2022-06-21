@@ -98,4 +98,4 @@ Remplacer tous les caractère jusqu'à la fin de la ligne : `c$`
 
 Trouver le caractère `(, [, {, "` Fermant : se mettre sur le caractère ouvrant et faire `%`
 
-> Note : Marche aussi des caractères fermant vers les ouvrants
+> Note : Marche aussi des caractères fermant vers les ouvrants.
