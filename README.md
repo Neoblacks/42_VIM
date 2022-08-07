@@ -28,6 +28,10 @@ Supprimer le caractère au dessus du curseur (agit comme la touche suppr) : `x`
 
 Inserer un texte : `i` --> passage au mode insertion
 
+Passe en mode insertion sur la ligne suivant : `o`
+
+Passe en mode insertion en supprimant le caractere ou se trouve le curseur : `s`
+
 Insérer un texte : `Shift+ A` (mets le curseur est à la fin de la ligne) --> passage au mode insertion
 
 Ajouter une ligne en dessous du curseur + passer en insertion : `o`
